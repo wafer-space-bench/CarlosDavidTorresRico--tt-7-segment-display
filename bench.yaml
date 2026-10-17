@@ -1,0 +1,26 @@
+source:
+  url: https://github.com/CarlosDavidTorresRico/tt-7-segment-display
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf26a
+  slot: tt_um_wokwi_465731458365332481
+  project: 7 segment Display Fli-Flop Try-out
+  size: 1x1
+  kind: digital (Wokwi)
+  commit: fe6b686f39cd8c679731e68bb2223285f20e1143
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf26a/tt_um_wokwi_465731458365332481
+  branch: tapeout/tinytapeout/ttgf26a/tt_um_wokwi_465731458365332481
+  page: https://app.tinytapeout.com/shuttles/ttgf26a
+generated: '2026-10-17T23:23:55Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf26a/tt_um_wokwi_465731458365332481
+- upstream/main
